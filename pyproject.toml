@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "palm"
+description = "My package description"
+requires-python = ">=3.12"
+license = {text = "MIT"}
+dynamic = ["version"]
+dependencies = [
+    "typing_extensions",
+]
+
+[tool.setuptools]
+packages = ["palm"]

@@ -1,0 +1,7 @@
+pyproject.toml
+palm/__init__.py
+palm.egg-info/PKG-INFO
+palm.egg-info/SOURCES.txt
+palm.egg-info/dependency_links.txt
+palm.egg-info/requires.txt
+palm.egg-info/top_level.txt
